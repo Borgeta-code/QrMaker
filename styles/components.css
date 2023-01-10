@@ -1,0 +1,9 @@
+#inputbox {
+  width: 95vw;
+}
+
+@media (min-width: 530px) {
+  #inputbox {
+    max-width: 450px;
+  }
+}
