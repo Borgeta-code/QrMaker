@@ -8,7 +8,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 ### 📋 Pré-requisitos
 
-De que coisas você precisa para instalar o software e como instalá-lo?
+Do que coisas você precisa para instalar o software?
 
 ```
 NPM - Gerenciador de pacotes
