@@ -5,7 +5,7 @@ import linkedin from "../public/img/linkedin.svg";
 export function Socials() {
   return (
     <>
-      <div className="flex absolute bottom-1 gap-3">
+      <div className="flex gap-3 mt-4 md:fixed md:bottom-1">
         <a
           href={"https://github.com/Borgeta-code"}
           target="_blank"

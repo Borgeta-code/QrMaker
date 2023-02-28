@@ -1,9 +1,35 @@
 #inputbox {
-  width: 95vw;
+  width: 90vw;
+}
+
+#inputbox2 {
+  width: 44vw;
+}
+
+#inputboxcolor {
+  width: 44vw;
+  height: 45px;
+}
+
+#btnQr {
+  width: 90vw;
 }
 
 @media (min-width: 530px) {
   #inputbox {
     max-width: 450px;
+  }
+
+  #inputbox2 {
+    max-width: 220px;
+  }
+
+  #inputboxcolor {
+    max-width: 220px;
+    height: 45px;
+  }
+
+  #btnQr {
+    width: 450px;
   }
 }
